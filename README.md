@@ -1,2 +1,2 @@
 # alin
-komputasi aljabar linier
+Komputasi Aljabar Linier
